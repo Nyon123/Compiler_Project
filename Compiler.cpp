@@ -1,5 +1,5 @@
 #include <iostream>
-This is Sakibur rahman
+//This is Nyon Ahmed
 using namespace std;
 string removeComments(string prgm)
 {
